@@ -1,0 +1,17 @@
+{
+  "name": "webhooks-test",
+  "version": "1.0.0",
+  "description": "webhooks-test for Brian Kittrell",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brian",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "morgan": "^1.9.1",
+    "pug": "^2.0.3"
+  }
+}
